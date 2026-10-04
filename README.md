@@ -13,9 +13,9 @@ Lovelace card for Home Assistant that displays the full visual history of your P
 Compatible with the [Jezza34000/homeassistant_petkit](https://github.com/Jezza34000/homeassistant_petkit) integration.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davbuild/petkit-history/main/docs/card-preview.svg" width="420" alt="Food tab — image history">
+  <img src="https://raw.githubusercontent.com/davbuild/petkit-history/main/docs/card-preview.png" width="420" alt="Food tab — image history">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/davbuild/petkit-history/main/docs/card-alimentacion.svg" width="420" alt="Feeding tab — dispenser schedule">
+  <img src="https://raw.githubusercontent.com/davbuild/petkit-history/main/docs/card-alimentacion.png" width="420" alt="Feeding tab — dispenser schedule">
 </p>
 
 ## Features
