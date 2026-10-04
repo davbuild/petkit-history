@@ -1,7 +1,7 @@
 # PetKit History Card
 
 [![GitHub Release][releases-shield]][releases]
-[![HACS Default](https://img.shields.io/badge/HACS-Default-blue.svg?style=for-the-badge&color=41BDF5)](https://hacs.xyz/docs/faq/custom_repositories)
+[![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge&color=orange)](https://hacs.xyz/docs/faq/custom_repositories)
 ![GitHub Downloads](https://img.shields.io/github/downloads/davbuild/petkit-history/total?style=for-the-badge)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/davbuild/?amount=1)
 
@@ -13,9 +13,9 @@ Lovelace card for Home Assistant that displays the full visual history of your P
 Compatible with the [Jezza34000/homeassistant_petkit](https://github.com/Jezza34000/homeassistant_petkit) integration.
 
 <p align="center">
-  <img src="docs/card-preview.svg" width="420" alt="Food tab — image history">
+  <img src="https://raw.githubusercontent.com/davbuild/petkit-history/main/docs/card-preview.svg" width="420" alt="Food tab — image history">
   &nbsp;&nbsp;
-  <img src="docs/card-alimentacion.svg" width="420" alt="Feeding tab — dispenser schedule">
+  <img src="https://raw.githubusercontent.com/davbuild/petkit-history/main/docs/card-alimentacion.svg" width="420" alt="Feeding tab — dispenser schedule">
 </p>
 
 ## Features
@@ -29,13 +29,13 @@ Compatible with the [Jezza34000/homeassistant_petkit](https://github.com/Jezza34
 
 ## Installation via HACS
 
-[![Open in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=davbuild&repository=petkit-history&category=lovelace)
+[![Open in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=davbuild&repository=petkit-history&category=plugin)
 
 Or manually:
 
 1. HACS → **(⋮)** → Custom repositories
 2. URL: `https://github.com/davbuild/petkit-history`
-3. Category: **Lovelace**
+3. Category: **Dashboard**
 4. Search for **PetKit History Card** and install
 5. Reload Lovelace
 
